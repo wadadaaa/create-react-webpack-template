@@ -3,7 +3,7 @@ import { hot } from 'react-hot-loader';
 
 class App extends React.Component {
   render() {
-    return <h1>Hello world 3!</h1>
+    return <h1>Hello world!</h1>
   }
 }
 
