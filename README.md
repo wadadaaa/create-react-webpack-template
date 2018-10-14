@@ -1,1 +1,1 @@
-# energy-app
+# demo-app
